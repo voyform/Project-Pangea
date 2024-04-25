@@ -10,7 +10,7 @@ body of the message and allows to scan found URLs, as well as any other URL the 
 wants to investigate. 
 
 Project Pangea is avaialble from:
-<Repo URL>
+https://github.com/voyform/Project-Pangea/tree/main/Source%20code
 
 
 The application is available as an .exe file, however it is also possible to run
