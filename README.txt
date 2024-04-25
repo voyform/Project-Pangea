@@ -20,6 +20,12 @@ ________________________________________________________________________________
 
 				CONFIGURATION
 
+You will need to download Google Authentication modules for python:
+>>> pip install --upgrade google-auth 
+>>> pip install google-auth-oauthlib 
+>>> pip install google-auth-httplib2
+>>> pip install --upgrade google-api-python-client
+
 To use the software to its full extent, it is required to have a pangea API key
 (found on pangea.cloud) and Gmail developer API enabled (with authentication files
 downloaded). 
