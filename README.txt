@@ -1,5 +1,5 @@
 ==================================================================================
-				                          PROJECT PANGEA
+				PROJECT PANGEA
 ==================================================================================
 
 Project Pangea is an open-source application written in Python under the MIT License 
@@ -18,7 +18,7 @@ the software as a python script after downlaoding all the necessary files
 and dependancies.  				
 ___________________________________________________________________________________
 
-				                          CONFIGURATION
+				CONFIGURATION
 
 To use the software to its full extent, it is required to have a pangea API key
 (found on pangea.cloud) and Gmail developer API enabled (with authentication files
@@ -32,7 +32,7 @@ credentials_file_path='<path_to_file>'
 
 ___________________________________________________________________________________
 
-				                          USING THE APP
+				USING THE APP
 
 How to use the application:
 
