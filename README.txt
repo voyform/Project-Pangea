@@ -3,7 +3,8 @@
 ==================================================================================
 
 Project Pangea is an open-source application written in Python under the MIT License 
-for any gmail user that may want to increase their security by using Pangea URLIntel.
+for any gmail user that may want to increase their security by using Pangea URLIntel
+to scan malicious links.
 
 The tool analyzes email messages on user's gmail account, recognizes any links in the
 body of the message and allows to scan found URLs, as well as any other URL the user
