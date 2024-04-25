@@ -3,7 +3,7 @@
 ==================================================================================
 
 Project Pangea is an open-source application written in Python under the MIT License 
-for any gmail user that may want to increase their security by using Pangea URLScan.
+for any gmail user that may want to increase their security by using Pangea URLIntel.
 
 The tool analyzes email messages on user's gmail account, recognizes any links in the
 body of the message and allows to scan found URLs, as well as any other URL the user
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 How to use the application:
 
-1. Make sure you have your pangea API key enabled for URLScan and your credentials
+1. Make sure you have your pangea API key enabled for URLIntel and your credentials
 file for the Gmail API.
 
 2. Download the source code folder from the github repository.
