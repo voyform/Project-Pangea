@@ -45,13 +45,12 @@ How to use the application:
 1. Make sure you have your pangea API key enabled for URLScan and your credentials
 file for the Gmail API.
 
-2. Download the <download file path> from the github repository and extract it in
-the location of your choosing.
+2. Download the source code folder from the github repository.
 
 3. In the configuration file, set api_key='<your_api_key>' 
 and credentials_file_path='<path_to_file>'.
 
-4. Run the application.
+4. Run GUI.py.
 
 5. You will be presented with a list of email subjects found on your inbox, 
 as well as a URL scan bar. 
