@@ -79,7 +79,7 @@ def scan_button_press(email):
     scan_results = f'Scan results: {bulk['status']}\n\nScan summary:\n{bulk['summary']}\n\n'
     scan_results += 'Scanned:\n'
     for i in range(len(urls)):
-        scan_results += str(list(bulk['result']['data'])[i]) + f'\n\nResult: {bulk['result']['data'][str(list(bulk['result']['data'])[i])]['verdict']}\n\n'
+        scan_results += str(list(bulk['result']['data'])) 
     # Creating the label
     label = tk.Label(root, text='Scan results:', font=('Roboto', 11, 'bold'), bg='#EBF0FF')
     label.grid(row=1, column=8, padx=15, pady=(25,0), sticky='sw')
