@@ -151,7 +151,7 @@ def url_find(message):
     return urls
 
 
-def request_response(location):
+def request_response(location, api_token):
     """
     This function requests a response for a checked list of URLs
     """
