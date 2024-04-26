@@ -70,7 +70,7 @@ def scan_button_press(email):
     response = ers.check_reputation(urls, api_token=api_token)
     if len(urls) > 1:
         url = response['result']['location'] # the URL to the results from the scan
-        bulk = ers.request_response(url) # getting the results
+        bulk = ers.request_response(url, api_token) # getting the results
     elif len(urls) == 1:
         bulk = response
     #w = tk.Toplevel(root)
